@@ -1,0 +1,23 @@
+.toolbar__container {
+    padding: 0 12px;
+    background-color: orange;
+    height: 36px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.button__default {
+    height: 36px;
+    background-color: inherit;
+    text-align: center;
+    border: none;
+    font-size: 12px;
+}
+
+.title__section {
+    h6 {
+        font-weight: 700;
+    }
+    display: flex;
+    align-items: center;
+}
